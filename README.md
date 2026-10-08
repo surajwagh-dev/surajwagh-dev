@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**surajwagh-dev/surajwagh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Suraj Wagh 👋
 
-Here are some ideas to get you started:
+🎓 Diploma E&TC Student  
+💻 Learning Web Development  
+🐍 Python Learner  
+📊 Advanced Excel  
+🔌 Electronics & Circuit Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## 📂 Projects
+
+- 🌐 Website
+- 🔌 Electronics & Circuit Projects
+- 📊 Excel Data Analysis
+
+## 🎯 Goal
+
+To build practical projects and improve my skills in
+Web Development, Python, Electronics and Data Analysis.
